@@ -1,3 +1,6 @@
+
+![image](https://github.com/rohanmandrekar/rohanmandrekar/assets/62501896/623fb8ae-26a0-4e27-b66d-f153206f9ff0)
+
 <h1 align="center">Hi 👋, I'm Rohan Mandrekar</h1>
 <h3 align="center">A Software Engineer with a Master's in Computer Science</h3>
 
