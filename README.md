@@ -1,5 +1,5 @@
+![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336](https://github.com/rohanmandrekar/rohanmandrekar/assets/62501896/413f6e39-cdf8-4ef9-a74a-2548f8f895e9)
 
-![image](https://github.com/rohanmandrekar/rohanmandrekar/assets/62501896/623fb8ae-26a0-4e27-b66d-f153206f9ff0)
 
 <h1 align="center">Hi 👋, I'm Rohan Mandrekar</h1>
 <h3 align="center">A Software Engineer with a Master's in Computer Science</h3>
