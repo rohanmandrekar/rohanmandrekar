@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmandrekar&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmandrekar" /> </p>
 
-- 🔭 I’m currently working on **A Basic Spring Boot To-Do List App**
+- 🔭 I’m currently working on **APIs for a social media site using Spring Boot**
 
 - 🌱 I’m currently learning **Spring Boot 3**
 
