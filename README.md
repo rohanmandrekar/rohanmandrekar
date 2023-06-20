@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Full-stack Todo list app using Java Spring Boot and React**
 
-- 🌱 I’m currently learning **Spring Boot 3**
+- 🌱 I’m currently learning **Spring Boot 3 and React**
 
 - 👨‍💻 All of my projects are available at [https://rohanmandrekar.netlify.app/](https://rohanmandrekar.netlify.app/)
 
