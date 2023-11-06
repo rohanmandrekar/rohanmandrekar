@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://rohanmandrekar.netlify.app/#posts](https://rohanmandrekar.netlify.app/#posts)
 
-- 💬 Ask me about **Computer Vision, Machine Learning, Python**
+- 💬 Ask me about **Computer Vision & Machine Learning**
 
 - 📫 How to reach me **rohanmandrekar22@gmail.com**
 
