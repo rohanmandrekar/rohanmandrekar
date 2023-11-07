@@ -10,15 +10,10 @@
 
 - 🌱 I’m currently learning **Spring Boot 3 and React**
 
-<! -- - 👨‍💻 All of my projects are available at [https://rohanmandrekar.netlify.app/](https://rohanmandrekar.netlify.app/) -->
-
-<! -- - 📝 I regularly write articles on [https://rohanmandrekar.netlify.app/#posts](https://rohanmandrekar.netlify.app/#posts) -->
-
 - 💬 Ask me about **Computer Vision & Machine Learning**
 
 - 📫 How to reach me **rohanmandrekar22@gmail.com**
 
- <! -- - 📄 Know about my experiences [https://rohanmandrekar.netlify.app/media/resume.pdf](https://rohanmandrekar.netlify.app/media/resume.pdf) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
