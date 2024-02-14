@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmandrekar&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmandrekar" /> </p>
 
-- 🔭 I’m currently working on **Full-stack Todo list app using Java Spring Boot and React**
+<!--- 🔭 I’m currently working on **Full-stack Todo list app using Java Spring Boot and React** -->
 
 - 🌱 I’m currently learning **AWS**
 
