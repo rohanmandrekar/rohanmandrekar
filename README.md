@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Full-stack Todo list app using Java Spring Boot and React**
 
-- 🌱 I’m currently learning **Spring Boot 3 and React**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Computer Vision & Machine Learning**
 
